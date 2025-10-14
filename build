@@ -1,0 +1,2 @@
+#! env sh
+AtlusScriptCompiler.exe -Compile -Library P3F -Encoding P3 -OutFormat V1 -Hook -Out ./output/FIELD.BF -In ./DATA/FIELD/SCRIPT/FIELD.flow
